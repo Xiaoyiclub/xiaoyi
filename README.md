@@ -1,6 +1,6 @@
 <div align="center">
 
-# 小亿（Xiao Yi）套利
+# 小亿套利
 
 ### 🚀 加密货币套利工具
 
