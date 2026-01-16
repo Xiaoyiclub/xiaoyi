@@ -1,8 +1,8 @@
 <div align="center">
 
-# 小亿套利
+# 小亿（Xiao Yi）套利
 
-### 🚀 加密货币对冲套利工具
+### 🚀 加密货币套利工具
 
 [![GitHub stars](https://img.shields.io/github/stars/Xiaoyiclub/xiaoyi?style=for-the-badge)](https://github.com/Xiaoyiclub/xiaoyi/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Xiaoyiclub/xiaoyi?style=for-the-badge)](https://github.com/Xiaoyiclub/xiaoyi/network)
@@ -32,7 +32,7 @@
 
 ## 软件简介
 
-小亿套利免费版是一款加密货币对冲套利软件，支持各主流交易所的现货vs现货、永续vs永续以及现货vs永续的对冲套利。
+小亿套利(免费版)是一款加密货币套利工具，支持各主流交易所的现货vs现货、永续vs永续以及现货vs永续的对冲套利。
 
 ## ✨ 核心特性
 
@@ -41,9 +41,9 @@
 <td width="50%">
 
 ### 🎯 多策略支持
-- 现货 vs 现货对冲套利
-- 永续 vs 永续对冲套利
-- 现货 vs 永续对冲套利
+- 现货 vs 现货套利
+- 永续 vs 永续套利
+- 现货 vs 永续套利
 - 自定义策略配置
 
 </td>
