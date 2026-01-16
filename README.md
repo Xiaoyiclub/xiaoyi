@@ -8,7 +8,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/Xiaoyiclub/xiaoyi?style=for-the-badge)](https://github.com/Xiaoyiclub/xiaoyi/network)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](LICENSE)
 
-[🌐 官网](https://xiaoyiclub.com) | [📱 Twitter](https://x.com/xiaoyiclub) | [💬 Telegram](https://t.me/xiaoyiclub) | [👥 加入社群](https://t.me/xiaoyi2023)
+[🌐 官网](https://github.com/Xiaoyiclub/xiaoyi) | [📱 Twitter](https://x.com/xiaoyiclub) | [💬 Telegram](https://t.me/xiaoyiclub) | [👥 加入社群](https://t.me/xiaoyi2023)
 
 </div>
 
