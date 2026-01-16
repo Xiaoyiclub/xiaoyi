@@ -1,6 +1,85 @@
-# 小亿套利 GitHub README
+<div align="center">
+
+# 小亿套利
+
+### 🚀 加密货币对冲套利工具
+
+[![GitHub stars](https://img.shields.io/github/stars/Xiaoyiclub/xiaoyi?style=for-the-badge)](https://github.com/Xiaoyiclub/xiaoyi/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Xiaoyiclub/xiaoyi?style=for-the-badge)](https://github.com/Xiaoyiclub/xiaoyi/network)
+[![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](LICENSE)
+
+[🌐 官网](https://xiaoyiclub.com) | [📱 Twitter](https://x.com/xiaoyiclub) | [💬 Telegram](https://t.me/xiaoyiclub) | [👥 加入社群](https://t.me/xiaoyi2023)
+
+</div>
+
+---
+
+## 📖 目录
+
+- [软件简介](#软件简介)
+- [核心特性](#✨-核心特性)
+- [硬件要求](#-硬件要求)
+- [软件安装](#-软件安装)
+- [验证安装](#-验证安装)
+- [检查可访问性](#-检查可访问性)
+- [开始使用](#-开始使用)
+- [官方高额返佣](#-官方高额返佣)
+- [常见问题](#-常见问题)
+- [联系我们](#-联系我们)
+- [许可证](#-许可证)
+
+---
+
+## 软件简介
 
 小亿套利免费版是一款加密货币对冲套利软件，支持各主流交易所的现货vs现货、永续vs永续以及现货vs永续的对冲套利。
+
+## ✨ 核心特性
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 多策略支持
+- 现货 vs 现货对冲套利
+- 永续 vs 永续对冲套利
+- 现货 vs 永续对冲套利
+- 自定义策略配置
+
+</td>
+<td width="50%">
+
+### 🏦 多交易所支持
+- Binance / OKX / Bybit
+- Bitget / Gate / Kucoin
+- Huobi / Hyperliquid
+- Backpack / Aster
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔒 安全可靠
+- 本地部署，数据安全
+- API权限可控
+- 实时风控监控
+- 自动止损保护
+
+</td>
+<td width="50%">
+
+### 💰 高额返佣
+- 最高60%手续费返佣
+- 永久有效，自动到账
+- 降低交易成本
+- 提升整体收益
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 💻 硬件要求
 
@@ -90,6 +169,53 @@ http://您的服务器公网IP:6680/
 - **Binance、OKX**：单月低于 10U 不支付
 - **Bitget、Bybit、Gate、Huobi**：注册后请告知UID和注册邮箱，需要后台设置
 
+## ❓ 常见问题
+
+<details>
+<summary><b>Q1: 需要什么样的服务器配置？</b></summary>
+
+最低配置：2核2G，独立公网IP，CentOS 7.x/8.x系统。推荐使用阿里云、腾讯云、AWS等云服务商。
+
+</details>
+
+<details>
+<summary><b>Q2: 软件是免费的吗？</b></summary>
+
+是的，软件完全免费使用。我们通过交易所返佣来维持项目运营。
+
+</details>
+
+<details>
+<summary><b>Q3: 如何获得更高的返佣比例？</b></summary>
+
+使用我们提供的专属邀请链接注册交易所账户。部分交易所（Bitget、Bybit、Gate、Huobi）需要提供UID和邮箱进行后台设置。
+
+</details>
+
+<details>
+<summary><b>Q4: 软件安全吗？</b></summary>
+
+软件部署在您自己的服务器上，所有数据完全由您控制。API密钥仅需只读和交易权限，不需要提币权限。
+
+</details>
+
+<details>
+<summary><b>Q5: 套利收益如何？</b></summary>
+
+收益取决于市场波动性、资金量、手续费等多种因素。一般情况下，年化收益在5%-20%之间。请理性看待收益，注意风险控制。
+
+</details>
+
+<details>
+<summary><b>Q6: 遇到问题如何获得帮助？</b></summary>
+
+您可以通过以下方式获得帮助：
+- 加入Telegram群组：[t.me/xiaoyi2023](https://t.me/xiaoyi2023)
+- 在GitHub提交Issue
+- 访问知识库：[xiaoyiclub.com](https://xiaoyiclub.com)
+
+</details>
+
 ## 📞 联系我们
 
 - **Twitter**：[x.com/xiaoyiclub](https://x.com/xiaoyiclub)
@@ -100,3 +226,19 @@ http://您的服务器公网IP:6680/
 ## 📄 许可证
 
 本项目仅供学习交流使用，投资有风险，请谨慎决策。
+
+---
+
+## 💖 支持项目
+
+如果这个项目对您有帮助，请给我们一个 ⭐️ Star！
+
+---
+
+<div align="center">
+
+**[⬆ 返回顶部](#小亿套利)**
+
+Made with ❤️ by [Xiao Yi](https://github.com/Xiaoyiclub)
+
+</div>
