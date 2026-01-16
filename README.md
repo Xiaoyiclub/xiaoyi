@@ -204,7 +204,7 @@ http://您的服务器公网IP:6680/
 您可以通过以下方式获得帮助：
 - 加入Telegram群组：[t.me/xiaoyi2023](https://t.me/xiaoyi2023)
 - 在GitHub提交Issue
-- 访问知识库：[xiaoyiclub.com](https://xiaoyiclub.com)
+- 访问知识库：[xiaoyiclub.com](http://xiaoyiclub.com/)
 
 </details>
 
@@ -213,7 +213,7 @@ http://您的服务器公网IP:6680/
 - **Twitter**：[x.com/xiaoyiclub](https://x.com/xiaoyiclub)
 - **Telegram**：[t.me/xiaoyiclub](https://t.me/xiaoyiclub)
 - **Telegram 群组**：[t.me/xiaoyi2023](https://t.me/xiaoyi2023)
-- **小亿知识库**：[xiaoyiclub.com](https://xiaoyiclub.com)
+- **小亿知识库**：[xiaoyiclub.com](http://xiaoyiclub.com/)
 
 ## 📄 许可证
 
