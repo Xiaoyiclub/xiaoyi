@@ -94,13 +94,13 @@
 使用PuTTY或其他SSH管理软件连接并登录您的服务器，在命令行中输入如下代码，耐心等待服务器下载安装包并自动安装。
 
 ```bash
-rpm -ivh https://github.com/cbbquant/shdfree/releases/latest/download/cbbshdfree.rpm
+rpm -ivh https://github.com/Xiaoyiclub/xiaoyi/releases/download/v1.0.0/xiaoyi-free-1.0.0.rpm
 ```
 
 **注意事项**：非root权限请在上述安装命令前加sudo，如下所示：
 
 ```bash
-sudo rpm -ivh https://github.com/cbbquant/shdfree/releases/latest/download/cbbshdfree.rpm
+sudo rpm -ivh https://github.com/Xiaoyiclub/xiaoyi/releases/download/v1.0.0/xiaoyi-free-1.0.0.rpm
 ```
 
 ## ✅ 验证安装
