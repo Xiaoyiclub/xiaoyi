@@ -105,14 +105,6 @@ sudo rpm -ivh https://github.com/Xiaoyiclub/xiaoyi/releases/download/v1.0.0/xiao
 
 ## ✅ 验证安装
 
-在服务器命令行中输入如下代码并回车：
-
-```bash
-systemctl status cbbshdfree
-```
-
-如在命令行窗口看到"**Active: active (running)**"字样，则表示软件已正常运行。
-
 ### 本地电脑浏览器打开管理网址
 
 在你本地电脑的浏览器中输入：
@@ -121,7 +113,7 @@ systemctl status cbbshdfree
 http://您的服务器公网IP:6680/
 ```
 
-## 🔧 检查可访问性
+## 🔧 检查访问
 
 在你本地电脑的浏览器中输入`http://您的服务器公网IP:6680/`，如果无法访问，则检查"云服务器安全组（防火墙）"和"操作系统防火墙"这两项：
 
